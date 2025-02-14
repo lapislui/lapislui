@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ## 📫 How to Reach Me
 - **Email**: [kevaljpatel.imscit20@gmail.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **X/Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [keval patel](https://www.linkedin.com/in/keval-patel-04a30b2b7/)
+- **X/Twitter**: [keval](https://x.com/kevalpatel9978)
 - **Instagram**: [@keval_patel9978](https://www.instagram.com/keval_patel9978)
 - **Facebook**: [#Keval Patel](https://www.facebook.com/share/18D6XRVVza)
 
